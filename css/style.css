@@ -1,0 +1,10 @@
+.bg-image {
+    background-image: url("/img/fondo-cocina-2.png");
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.text-rosita {
+    color: pink;
+}
